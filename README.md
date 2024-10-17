@@ -2,17 +2,6 @@
 <head>
 <meta charset="utf-8">
 <title>Project: Travel webpage</title>
-<style>
-h1{
-color: #4ab0b0;
-  }
-h2{
-color: #134b70;
-  }
-h3{
-color: #25254d;
-  }
-</style>
 </head> 
 <body>
 <h1>~ Travel to Hawaii ~</h1>
